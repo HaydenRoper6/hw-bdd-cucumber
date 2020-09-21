@@ -1,5 +1,4 @@
 rottenpotatoes/.bundle/
 rottenpotatoes/db/*.sqlite3
-rottenpotatoes/log/
 rottenpotatoes/tmp/
 rottenpotatoes/vendor/bundle
